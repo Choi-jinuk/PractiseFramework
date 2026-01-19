@@ -1,0 +1,6 @@
+{
+  "name": "PractiseFramework.Runtime.Tests",
+  "references": [
+    "PractiseFramework.Runtime"
+  ]
+}

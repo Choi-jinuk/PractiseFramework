@@ -1,0 +1,10 @@
+{
+  "name": "PractiseFramework.Editor.Tests",
+  "references": [
+    "PractiseFramework.Runtime",
+    "PractiseFramework.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
