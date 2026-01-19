@@ -1,0 +1,10 @@
+{
+  "name": "com.choi-jinuk.practiseframework",
+  "displayName": "PractiseFramework",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "UPM 패키지 구조를 연습하기 위한 PractiseFramework.",
+  "author": {
+    "name": "Choi Jinuk"
+  }
+}
